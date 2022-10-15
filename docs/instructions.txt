@@ -1,0 +1,29 @@
+Project
+
+Each student or group will attack your well-defined regression of classification problem with your real-world data set.
+
+Each project is different and different projects will require more work on some parts than others, but all should have four main parts:
+
+Data preparation: Create or clean the data (if needed), read the data with code, and preprocess the data.
+Benchmarking: Use a simple model (for example, linear regression or logistic regression) to find some benchmarks for performance.
+Training and Tuning your NN: Set up a fully-connected feedforward neural network and tune the hyperparameters to solve your problem as well as possible.
+Presenting your work: Write a report. There are no rules on length, just thoroughly describe your work. Some guidelines:
+Include an introduction and discussion of your problem and dataset.
+Include your code, written descriptions of your code, outputs of your code
+Include results of the hyperparameter experiments you run (not necessarily every one, but show me you tested things that worked or didn't work).
+Keep in mind preprocessing, normalization methods, initialization, activation functions, loss functions, regularization methods, learning rates or schedules, net architectures and any other decisions you make for your model are all hyperparameters.
+Explain the reasoning for your progression in adjusting the hyperparameters.
+Include performance metrics or graphics for the experiments.
+Present your work
+Project Grading
+
+The project is worth 200 points. (Students within teams will receive the same grade.)
+
+20 points: Proposal
+20 points: Problem description in report (What are you trying to do? What is your data? What shape is it?)
+20-60 points: Data preparation (Include any code, describe your process.)
+20 points: Benchmarking (Which method(s) are you using? What is the performance?)
+40-80 points: Training and tuning your network (include discussion of hyperparameter decisions and results of experiments)
+20 points: Conclusions, descriptive diagrams, etc., in the report
+20 points: Present your work (5-10 minutes)
+Note that the amount of points dedicated to some categories depends on the nature of the project as determined by the instructor because some projects require more work on the data or in hyperparameter tuning than others.
