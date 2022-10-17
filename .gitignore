@@ -131,3 +131,4 @@ dmypy.json
 # generated files
 gens/
 training_checkpoints/
+data/
