@@ -132,3 +132,5 @@ dmypy.json
 gens/
 training_checkpoints/
 data/
+training_checkpoints_cifar10/
+cifar10_gens/
